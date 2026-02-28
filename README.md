@@ -27,8 +27,6 @@ _Oct 2022 — Present_
 - Own product strategy and delivery for a next-gen enterprise clinical trial platform  
 - Reduced study activation timelines by **7.5 weeks (25%)**  
 - Simplified core data models by **49%**, improving data quality by **65%**  
-- Led phased retirement of **3 legacy systems** across a highly integrated ecosystem  
-- Coordinated delivery across **8+ applications** and **20+ stakeholder groups** without disruption  
 
 ---
 
@@ -56,7 +54,7 @@ _Feb 2020 — Oct 2021_
 _June 2019 — Feb 2020_
 
 - Top performer in ticket resolution (99% accuracy)  
-- Contributed to early-stage product discovery for enterprise research workflows  
+- Contributed to early-stage product discovery for enterprise radiology product 
 
 ---
 
